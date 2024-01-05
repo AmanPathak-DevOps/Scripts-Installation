@@ -1,6 +1,6 @@
 #! /bin/bash
 
-apt install unzip
+sudo apt install unzip
 adduser sonarqube
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.4.0.54424.zip
 unzip *
